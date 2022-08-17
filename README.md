@@ -4,6 +4,11 @@ This repository is intended to link to my favourite open source / free-to-use pl
 
 ## VSTs and Mixing Tools
 
+### DAWs
+Mac/PC:   Reaper
+Mac:      Logic Pro X 
+Windows:  Nuendo/Cubase
+
 ### Immersive Learning Ressources
 
 ### Acoustics
