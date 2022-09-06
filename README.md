@@ -10,6 +10,7 @@ This repository is intended to link to my favourite open source / free-to-use pl
 
  ### Immersive Learning Ressources
  ### Acoustics
+Room Acoustics and Loudspeaker Positon | https://www.youtube.com/watch?v=h8I60SYZSOk
 
 # MOOCs I Like
 - Fundamentals of Communication Acoustics (RWTHTUMx) https://learning.edx.org/course/course-v1:RWTHTUMx+CA101.1x+3T2021/home
