@@ -3,14 +3,14 @@
 This repository is intended to link to my favourite open source / free-to-use plugins and tools for the courses AV-Processing and Media Technology.
 
 ## VSTs and Mixing Tools
-### DAWs
-- Mac/PC:   Reaper
-- Mac:      Logic Pro X 
-- Windows:  Nuendo/Cubase
+### DAWs  
+1. Reaper (free for private use)
+2. Logic Pro X (mac only - edu bundle)
+3. Nuendo / Cubase 
+4. ProTools (license dongled)
+- [ ] Shortcuts Cheat Sheets
+---
 
-
- ### Immersive Learning Ressources
- ### Acoustics
 ## YouTube Findings:
 - [Room Acoustics and Loudspeaker Positon](https://www.youtube.com/watch?v=h8I60SYZSOk)
 
